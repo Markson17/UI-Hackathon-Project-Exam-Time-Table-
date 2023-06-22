@@ -1,0 +1,10 @@
+Days,Courses,Start-Time,End-Time,Students population
+Monday,CSC 103,08:00 AM,11:00 AM,65
+Monday,MAT121,08:00 AM,11:00 AM,72
+Tuesday,CSC 242,12:00 PM,03:00 PM,90
+Tuesday,CSC 313,08:00 AM,11:00 AM,130
+Wednesday,CSC 412,08:00 AM,11:00 AM,150
+Thursday,MAT201,08:00 AM,11:00 AM,85
+Thursday,CHEM111,08:00 AM,11:00 AM,95
+Friday,PHY301,08:00 AM,11:00 AM,120
+Friday,BIO101,12:00 PM,03:00 PM,110
